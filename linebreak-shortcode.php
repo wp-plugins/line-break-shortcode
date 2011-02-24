@@ -3,7 +3,7 @@
 Plugin Name: Line Break Shortcode
 Plugin URI: http://briteskies.com/
 Description: Adds a [br] shortcode. Plugin modeled after the w4-internal-link-shortcode plugin. 
-Version: 1.0
+Version: 1.0.1
 Author: Tim Reynolds
 Author URI: http://briteskies.com
 */
