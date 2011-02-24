@@ -48,4 +48,5 @@ Which results in the following HTML:
 Question/Comments: Please hit up the forum or drop me a line at Reynolds.TimJ+LinebreakPlugin@gmail.com
 
 == Changelog ==
+1.0.1 Updated structure in SVN to get plug-in to work. 
 1.0 - Initial check-in. I don't predict there will be many changes to this plug-in.
